@@ -1,7 +1,5 @@
-import {Product} from "@/components/Product";
+import { Product } from '@/components/Product';
 
-export default function Home () {
-    return (
-        <Product/>
-    );
-};
+export default function Home() {
+  return <Product />;
+}

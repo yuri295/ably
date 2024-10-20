@@ -1,37 +1,301 @@
 {
-  "post": [
-    { "id": 1, "src": "images/product1.webp", "sale": 35, "price": 39000, "store": "어반디자인", "title": "[3기장, -2XL] 코튼 사이드 폴딩 핀턱 밑단 버튼 와이드 팬츠", "bought": 120 },
-    { "id": 2, "src": "images/product2.webp", "sale": 20, "price": 45000, "store": "모노하우스", "title": "오버핏 헤비코튼 후드티", "bought": 750 },
-    { "id": 3, "src": "images/product3.webp", "sale": 15, "price": 58000, "store": "더클로젯", "title": "울 블렌드 체크 셔츠", "bought": 230 },
-    { "id": 4, "src": "images/product4.webp", "sale": 40, "price": 32000, "store": "에브리데이룩", "title": "슬림핏 스판 데님 팬츠", "bought": 1450 },
-    { "id": 5, "src": "images/product5.webp", "sale": 25, "price": 52000, "store": "디스트릭트", "title": "라운드넥 니트 스웨터", "bought": 620 },
-    { "id": 6, "src": "images/product6.webp", "sale": 30, "price": 48000, "store": "유니온웨어", "title": "테이퍼드 핏 조거 팬츠", "bought": 950 },
-    { "id": 7, "src": "images/product7.webp", "sale": 10, "price": 67000, "store": "플랜비", "title": "하프 집업 플리스 자켓", "bought": 340 },
-    { "id": 8, "src": "images/product8.webp", "sale": 50, "price": 99000, "store": "오브젝트", "title": "크롭트 퀄팅 패딩 점퍼", "bought": 780 },
-    { "id": 9, "src": "images/product9.webp", "sale": 15, "price": 42000, "store": "모노트랙", "title": "기모 후드 스웨트셔츠", "bought": 1580 },
-    { "id": 10, "src": "images/product10.webp", "sale": 35, "price": 37000, "store": "온더무브", "title": "브이넥 루즈핏 가디건", "bought": 520 },
-    { "id": 11, "src": "images/product11.webp", "sale": 20, "price": 125000, "store": "리브포인트", "title": "타탄 체크 울 코트", "bought": 800 },
-    { "id": 12, "src": "images/product12.webp", "sale": 40, "price": 29000, "store": "솔리드룸", "title": "슬림핏 터틀넥 티셔츠", "bought": 660 },
-    { "id": 13, "src": "images/product13.webp", "sale": 30, "price": 60000, "store": "메이븐", "title": "박시핏 스트라이프 셔츠", "bought": 410 },
-    { "id": 14, "src": "images/product14.webp", "sale": 25, "price": 20000, "store": "코지라운지", "title": "숏 슬리브 프린팅 티셔츠", "bought": 1500 },
-    { "id": 15, "src": "images/product15.webp", "sale": 50, "price": 83000, "store": "아크코드", "title": "하이넥 방수 바람막이", "bought": 620 },
-    { "id": 16, "src": "images/product16.webp", "sale": 35, "price": 15000, "store": "프리모", "title": "브러쉬드 울 비니", "bought": 1340 },
-    { "id": 17, "src": "images/product17.webp", "sale": 45, "price": 59000, "store": "더캔버스", "title": "와이드 크롭 슬랙스", "bought": 480 },
-    { "id": 18, "src": "images/product18.webp", "sale": 10, "price": 40000, "store": "모드앤코", "title": "기모 플리스 맨투맨", "bought": 1700 },
-    { "id": 19, "src": "images/product19.webp", "sale": 55, "price": 198000, "store": "스탠다드핏", "title": "트윌 롱코트", "bought": 950 },
-    { "id": 20, "src": "images/product20.webp", "sale": 20, "price": 49000, "store": "에센셜스튜디오", "title": "하이웨이스트 와이드 팬츠", "bought": 320 },
-    { "id": 21, "src": "images/product21.webp", "sale": 30, "price": 28000, "store": "베이직스토리", "title": "베이직 롱 슬리브 티", "bought": 740 },
-    { "id": 22, "src": "images/product22.webp", "sale": 15, "price": 34000, "store": "라스트핏", "title": "리브드 니트 팬츠", "bought": 520 },
-    { "id": 23, "src": "images/product23.webp", "sale": 25, "price": 80000, "store": "디아모", "title": "오버사이즈 데님 자켓", "bought": 620 },
-    { "id": 24, "src": "images/product24.webp", "sale": 35, "price": 39000, "store": "카인드웨어", "title": "퍼프 슬리브 셔츠", "bought": 560 },
-    { "id": 25, "src": "images/product25.webp", "sale": 10, "price": 23000, "store": "루미나", "title": "스웨이드 미니 스커트", "bought": 900 },
-    { "id": 26, "src": "images/product26.webp", "sale": 50, "price": 65000, "store": "하프크루", "title": "엠보싱 로고 후디", "bought": 740 },
-    { "id": 27, "src": "images/product27.webp", "sale": 25, "price": 99000, "store": "리넨라운지", "title": "리넨 셋업 자켓", "bought": 1100 },
-    { "id": 28, "src": "images/product28.webp", "sale": 35, "price": 45000, "store": "더플레인", "title": "스트레이트 컷 데님", "bought": 850 },
-    { "id": 29, "src": "images/product29.webp", "sale": 20, "price": 17000, "store": "패브릭라운드", "title": "무지 반팔 티셔츠", "bought": 1700 },
-    { "id": 30, "src": "images/product30.webp", "sale": 30, "price": 56000, "store": "시프트웨어", "title": "시어서커 셔츠", "bought": 520 },
-    { "id": 31, "src": "images/product31.webp", "sale": 15, "price": 40000, "store": "노아클로즈", "title": "플라워 패턴 미디 스커트", "bought": 1350 },
-    { "id": 32, "src": "images/product32.webp", "sale": 45, "price": 39000, "store": "엣지라인", "title": "드로스트링 카고 팬츠", "bought": 980 },
-    { "id": 33, "src": "images/product33.webp", "sale": 50, "price": 30000, "store": "클래식라운드", "title": "체크 무늬 울 머플러", "bought": 700 }
+  "posts": [
+    {
+      "id": 1,
+      "src": "images/product1.webp",
+      "sale": 35,
+      "price": 39000,
+      "store": "어반디자인",
+      "title": "[3기장, -2XL] 코튼 사이드 폴딩 핀턱 밑단 버튼 와이드 팬츠",
+      "bought": 120
+    },
+    {
+      "id": 2,
+      "src": "images/product2.webp",
+      "sale": 20,
+      "price": 45000,
+      "store": "모노하우스",
+      "title": "오버핏 헤비코튼 후드티",
+      "bought": 750
+    },
+    {
+      "id": 3,
+      "src": "images/product3.webp",
+      "sale": 15,
+      "price": 58000,
+      "store": "더클로젯",
+      "title": "울 블렌드 체크 셔츠",
+      "bought": 230
+    },
+    {
+      "id": 4,
+      "src": "images/product4.webp",
+      "sale": 40,
+      "price": 32000,
+      "store": "에브리데이룩",
+      "title": "슬림핏 스판 데님 팬츠",
+      "bought": 1450
+    },
+    {
+      "id": 5,
+      "src": "images/product5.webp",
+      "sale": 25,
+      "price": 52000,
+      "store": "디스트릭트",
+      "title": "라운드넥 니트 스웨터",
+      "bought": 620
+    },
+    {
+      "id": 6,
+      "src": "images/product6.webp",
+      "sale": 30,
+      "price": 48000,
+      "store": "유니온웨어",
+      "title": "테이퍼드 핏 조거 팬츠",
+      "bought": 950
+    },
+    {
+      "id": 7,
+      "src": "images/product7.webp",
+      "sale": 10,
+      "price": 67000,
+      "store": "플랜비",
+      "title": "하프 집업 플리스 자켓",
+      "bought": 340
+    },
+    {
+      "id": 8,
+      "src": "images/product8.webp",
+      "sale": 50,
+      "price": 99000,
+      "store": "오브젝트",
+      "title": "크롭트 퀄팅 패딩 점퍼",
+      "bought": 780
+    },
+    {
+      "id": 9,
+      "src": "images/product9.webp",
+      "sale": 15,
+      "price": 42000,
+      "store": "모노트랙",
+      "title": "기모 후드 스웨트셔츠",
+      "bought": 1580
+    },
+    {
+      "id": 10,
+      "src": "images/product10.webp",
+      "sale": 35,
+      "price": 37000,
+      "store": "온더무브",
+      "title": "브이넥 루즈핏 가디건",
+      "bought": 520
+    },
+    {
+      "id": 11,
+      "src": "images/product11.webp",
+      "sale": 20,
+      "price": 125000,
+      "store": "리브포인트",
+      "title": "타탄 체크 울 코트",
+      "bought": 800
+    },
+    {
+      "id": 12,
+      "src": "images/product12.webp",
+      "sale": 40,
+      "price": 29000,
+      "store": "솔리드룸",
+      "title": "슬림핏 터틀넥 티셔츠",
+      "bought": 660
+    },
+    {
+      "id": 13,
+      "src": "images/product13.webp",
+      "sale": 30,
+      "price": 60000,
+      "store": "메이븐",
+      "title": "박시핏 스트라이프 셔츠",
+      "bought": 410
+    },
+    {
+      "id": 14,
+      "src": "images/product14.webp",
+      "sale": 25,
+      "price": 20000,
+      "store": "코지라운지",
+      "title": "숏 슬리브 프린팅 티셔츠",
+      "bought": 1500
+    },
+    {
+      "id": 15,
+      "src": "images/product15.webp",
+      "sale": 50,
+      "price": 83000,
+      "store": "아크코드",
+      "title": "하이넥 방수 바람막이",
+      "bought": 620
+    },
+    {
+      "id": 16,
+      "src": "images/product16.webp",
+      "sale": 35,
+      "price": 15000,
+      "store": "프리모",
+      "title": "브러쉬드 울 비니",
+      "bought": 1340
+    },
+    {
+      "id": 17,
+      "src": "images/product17.webp",
+      "sale": 45,
+      "price": 59000,
+      "store": "더캔버스",
+      "title": "와이드 크롭 슬랙스",
+      "bought": 480
+    },
+    {
+      "id": 18,
+      "src": "images/product18.webp",
+      "sale": 10,
+      "price": 40000,
+      "store": "모드앤코",
+      "title": "기모 플리스 맨투맨",
+      "bought": 1700
+    },
+    {
+      "id": 19,
+      "src": "images/product19.webp",
+      "sale": 55,
+      "price": 198000,
+      "store": "스탠다드핏",
+      "title": "트윌 롱코트",
+      "bought": 950
+    },
+    {
+      "id": 20,
+      "src": "images/product20.webp",
+      "sale": 20,
+      "price": 49000,
+      "store": "에센셜스튜디오",
+      "title": "하이웨이스트 와이드 팬츠",
+      "bought": 320
+    },
+    {
+      "id": 21,
+      "src": "images/product21.webp",
+      "sale": 30,
+      "price": 28000,
+      "store": "베이직스토리",
+      "title": "베이직 롱 슬리브 티",
+      "bought": 740
+    },
+    {
+      "id": 22,
+      "src": "images/product22.webp",
+      "sale": 15,
+      "price": 34000,
+      "store": "라스트핏",
+      "title": "리브드 니트 팬츠",
+      "bought": 520
+    },
+    {
+      "id": 23,
+      "src": "images/product23.webp",
+      "sale": 25,
+      "price": 80000,
+      "store": "디아모",
+      "title": "오버사이즈 데님 자켓",
+      "bought": 620
+    },
+    {
+      "id": 24,
+      "src": "images/product24.webp",
+      "sale": 35,
+      "price": 39000,
+      "store": "카인드웨어",
+      "title": "퍼프 슬리브 셔츠",
+      "bought": 560
+    },
+    {
+      "id": 25,
+      "src": "images/product25.webp",
+      "sale": 10,
+      "price": 23000,
+      "store": "루미나",
+      "title": "스웨이드 미니 스커트",
+      "bought": 900
+    },
+    {
+      "id": 26,
+      "src": "images/product26.webp",
+      "sale": 50,
+      "price": 65000,
+      "store": "하프크루",
+      "title": "엠보싱 로고 후디",
+      "bought": 740
+    },
+    {
+      "id": 27,
+      "src": "images/product27.webp",
+      "sale": 25,
+      "price": 99000,
+      "store": "리넨라운지",
+      "title": "리넨 셋업 자켓",
+      "bought": 1100
+    },
+    {
+      "id": 28,
+      "src": "images/product28.webp",
+      "sale": 35,
+      "price": 45000,
+      "store": "더플레인",
+      "title": "스트레이트 컷 데님",
+      "bought": 850
+    },
+    {
+      "id": 29,
+      "src": "images/product29.webp",
+      "sale": 20,
+      "price": 17000,
+      "store": "패브릭라운드",
+      "title": "무지 반팔 티셔츠",
+      "bought": 1700
+    },
+    {
+      "id": 30,
+      "src": "images/product30.webp",
+      "sale": 30,
+      "price": 56000,
+      "store": "시프트웨어",
+      "title": "시어서커 셔츠",
+      "bought": 520
+    },
+    {
+      "id": 31,
+      "src": "images/product31.webp",
+      "sale": 15,
+      "price": 40000,
+      "store": "노아클로즈",
+      "title": "플라워 패턴 미디 스커트",
+      "bought": 1350
+    },
+    {
+      "id": 32,
+      "src": "images/product32.webp",
+      "sale": 45,
+      "price": 39000,
+      "store": "엣지라인",
+      "title": "드로스트링 카고 팬츠",
+      "bought": 980
+    },
+    {
+      "id": 33,
+      "src": "images/product33.webp",
+      "sale": 50,
+      "price": 30000,
+      "store": "클래식라운드",
+      "title": "체크 무늬 울 머플러",
+      "bought": 700
+    }
   ]
 }

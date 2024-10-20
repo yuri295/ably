@@ -1083,6 +1083,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@types/axios@npm:^0.14.0":
+  version: 0.14.0
+  resolution: "@types/axios@npm:0.14.0"
+  dependencies:
+    axios: "npm:*"
+  checksum: 10c0/f315a485b8069038a1bd8d7c064b84dc6f726dfaab4ef1a6602b0bd38bbf32a6903dc9282293caafefac38da5a0e938fa6623ce8dd173adb41864dac6cb83716
+  languageName: node
+  linkType: hard
+
 "@types/cacheable-request@npm:^6.0.1":
   version: 6.0.3
   resolution: "@types/cacheable-request@npm:6.0.3"
@@ -1477,6 +1486,7 @@ __metadata:
     "@stitches/react": "npm:^1.2.8"
     "@tanstack/react-query": "npm:^5.59.13"
     "@tanstack/react-query-devtools": "npm:^5.59.13"
+    "@types/axios": "npm:^0.14.0"
     "@types/eslint-plugin-jsx-a11y": "npm:^6"
     "@types/node": "npm:^22.7.5"
     "@types/react": "npm:^18.3.11"
@@ -1781,7 +1791,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"axios@npm:^1.7.7":
+"axios@npm:*, axios@npm:^1.7.7":
   version: 1.7.7
   resolution: "axios@npm:1.7.7"
   dependencies:
